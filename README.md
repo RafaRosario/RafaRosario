@@ -1,4 +1,4 @@
-## 😄 Sou um aluno de engenharia da Computação, em busca de novas experiências em minha área 
+## 😄 Aluno de engenharia da Computação, em busca de novas experiências na minha área, com sede de conhecimento
 
 <!--
 **RafaRosario/RafaRosario** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
